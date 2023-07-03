@@ -1,0 +1,4 @@
+baseURL = 'https://mosquid.github.io/'
+languageCode = 'en-us'
+title = 'Mosquid'
+theme = 'ananke'
