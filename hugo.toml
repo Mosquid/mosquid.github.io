@@ -1,7 +1,7 @@
 baseURL = 'https://mosquid.github.io/'
 languageCode = 'en-us'
 title = 'Mosquid'
-theme = 'Salinger'
+theme = 'salinger'
 copyright = 'Mosquid'
 author = "Dmitry Mosquid"
 header = "<strong>Hi, I'm John. 👋 </strong>"
