@@ -1,6 +1,6 @@
 ---
-title: "Last projects. 🤖"
+title: "My projects"
 weight: 10
 ---
 
-Here are some of things I make:
+Things I make, write and experiment with:

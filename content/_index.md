@@ -1,6 +1,6 @@
 ---
-title: "Last projects. 🤖"
+title: "Mosquid | Home"
 weight: 10
 ---
 
-Hello! I'm Dmitry Platonov, and this the place is where I share what I'm currently working on. I'm on the lookout for individuals who are just starting their careers, eager to join in an exchange of guidance and mentoring. If you're seeking an opportunity to contribute, you've come to the right place.
+Hey there. I’m Dmitry Platonov, also known as _mosquid_, and this is the place where I talk about the things I make. I’m looking for individuals early in their careers who are willing to learn by participating in my side projects. This includes but is not limited to, mentoring and working together to advance your career.

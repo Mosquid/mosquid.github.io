@@ -3,14 +3,14 @@ languageCode = 'en-us'
 title = 'Mosquid'
 theme = 'salinger'
 copyright = 'Mosquid'
-author = "Dmitry Mosquid"
+author = "Mosquid"
 header = "<strong>Hi, I'm John. 👋 </strong>"
 keywords = [ "Portfolio", "developer", "coding", "maker"]
 showHeaderOnHomepage = false
 
 
 [params]
-  Header = 'Dmitry Mosquid'
+  Header = 'mosquid'
   
 
 
